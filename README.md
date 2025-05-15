@@ -1,2 +1,8 @@
 # Hi, I'm Chinemerem Agana
-README
+# About Me
+App Dev Student, YearUpUnited
+# Experience 
+Java, Python, HTML
+# Projects completed 
+links coming soon......
+
