@@ -5,4 +5,6 @@ App Dev Student, YearUpUnited
 Java, Python, HTML
 # Projects completed 
 links coming soon......
+# Contact 
+https://www.linkedin.com/in/chinemerem-agana-8079b3358/
 
